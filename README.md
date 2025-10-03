@@ -21,6 +21,7 @@ sipfora-ai-case-study/
     Sipfora_Portfolio_Showcase.docx
     Module6_Integration_Portfolio_Workbook_Professional.docx
     Sipfora_Module6_Part1_ProgressCard.docx
+    Sipfora_Module6_Prompting_Appendix
   mom/
     Sipfora_Detailed_MOM_Day1_Day2.docx
     Sipfora_RAW_Meeting_Transcript.docx
