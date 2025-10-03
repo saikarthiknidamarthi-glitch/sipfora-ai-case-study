@@ -1,0 +1,108 @@
+{
+    "Day-1 MOM": {
+        "Participants": [
+            "Investor",
+            "CEO",
+            "HRBP",
+            "VP Sales & Marketing",
+            "VP Social Media"
+        ],
+        "Agenda": [
+            "Growth",
+            "ROI",
+            "KPIs",
+            "Marketing Strategy",
+            "Online Presence",
+            "Budget Allocation",
+            "Customer Feedback",
+            "Areas of Lag",
+            "Improvements"
+        ],
+        "Discussion Points": [
+            {
+                "Topic": "Financial Snapshot",
+                "Key Notes": "Revenue: \u20b98.4 Cr, Net Profit: \u20b91.1 Cr, ROI: 16.9%, Sales Growth: 28% above target",
+                "Outcomes": "Strengthen cost control & profitability focus"
+            },
+            {
+                "Topic": "Sales & Marketing",
+                "Key Notes": "Coffee 65%, Tea 35%. Repeat purchase 42%. Strong metro traction, weak Tier-2 presence. CAC higher than expected.",
+                "Outcomes": "Plan-B: Push Tier-2 via e-commerce, micro-influencers, smaller SKUs, supply chain cost optimization (-12%)"
+            },
+            {
+                "Topic": "Social Media",
+                "Key Notes": "Followers: 25K+, Engagement: 4.8%, Campaign reach: 1.2M. High reach but low conversions. 70% traffic from Instagram.",
+                "Outcomes": "Plan-B: Diversify into YouTube, Pinterest, SEO blog. Integrate shop-links, seasonal offers. Target: Conversion 2.5%\u21924%, CAC -25%"
+            },
+            {
+                "Topic": "HR & People",
+                "Key Notes": "Headcount: 52, Attrition: 12%, Engagement score: 7.8/10.",
+                "Outcomes": "New hiring: 8 roles (Sales, Analysts, Community Manager). HR Budget: \u20b975\u201380 Lakhs (~12% OpEx). Focus on training & flexible work pilots."
+            },
+            {
+                "Topic": "Customer Feedback",
+                "Key Notes": "Cold brews loved, premium teas resisted in Tier-2.",
+                "Outcomes": "Launch smaller SKUs, bundles, regionally adaptive pricing."
+            },
+            {
+                "Topic": "Year 2 Forecast",
+                "Key Notes": "Budget: \u20b99.5 Cr, Revenue Target: \u20b911.5\u201312 Cr, Net Profit: \u20b91.8\u20132.1 Cr, ROI: 20\u201322%",
+                "Outcomes": "KPIs: Conversion \u22654%, Repeat Purchase \u226550%, Attrition \u226410%, NPS 55+."
+            },
+            {
+                "Topic": "Branding",
+                "Key Notes": "Final Logo: Red-Gold Premium Identity. Tagline: 'Every Sip, A Lifestyle.'",
+                "Outcomes": "Launch Budget: \u20b92.2\u20132.4 Cr. Expected ROI: +\u20b94.5\u20135 Cr revenue in 12 months."
+            }
+        ]
+    },
+    "Day-2 MOM": {
+        "Participants": [
+            "Investor",
+            "CEO",
+            "HRBP",
+            "VP Sales & Marketing",
+            "VP Social Media"
+        ],
+        "Agenda": [
+            "Day-1 Recap",
+            "Risk Analysis",
+            "Competitive Benchmarking",
+            "Plan-B for sales dips",
+            "AI adoption",
+            "Closing Notes"
+        ],
+        "Discussion Points": [
+            {
+                "Topic": "Day-1 Recap",
+                "Key Notes": "Reviewed financials, KPIs, HR, customer insights, branding, and forecasts.",
+                "Outcomes": "Align on execution and sharper CA-oriented analysis."
+            },
+            {
+                "Topic": "Financial Risk Analysis",
+                "Key Notes": "Risks: High CAC, Tier-2 expansion, supply chain inflation, attrition, overdependence on coffee, Instagram reliance.",
+                "Outcomes": "Mitigations: Micro-influencers, e-commerce push, regional distributors, retention incentives, SKU diversification, platform diversification."
+            },
+            {
+                "Topic": "Competitive Benchmarking",
+                "Key Notes": "Starbucks, Chaayos, Blue Tokai, Third Wave, Local caf\u00e9s compared.",
+                "Outcomes": "Sipfora\u2019s edge: Affordable luxury, coffee + tea duality, semi-urban adaptability."
+            },
+            {
+                "Topic": "Plan-B (Sales Dip)",
+                "Key Notes": "Scenarios modeled: -15%, -30%, -40% sales.",
+                "Outcomes": "Actions: Lean operations, SKUs prioritization, contingency fund (\u20b91 Cr), freeze hiring, supplier negotiations. Ensures 9\u201312 months runway."
+            },
+            {
+                "Topic": "AI Adoption",
+                "Key Notes": "AI in sales forecasting (+18% accuracy), budgeting simulations, NLP sentiment analysis, KPI dashboards, risk stress tests.",
+                "Outcomes": "Future: Real-time dashboards, predictive KPIs, AI-powered CX."
+            },
+            {
+                "Topic": "Closing Note",
+                "Key Notes": "Inspirational quote: 'Great companies are not built in comfort, but in the courage to adapt, innovate, and keep serving customers better every single day.'",
+                "Outcomes": "Next quarterly review planned."
+            }
+        ]
+    }
+}
