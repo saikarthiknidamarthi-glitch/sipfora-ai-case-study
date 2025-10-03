@@ -44,7 +44,7 @@ sipfora-ai-case-study/
 - `mom/Sipfora_Detailed_MOM_Day1_Day2.docx` → Detailed meeting minutes  
 - `mom/Sipfora_RAW_Meeting_Transcript.docx` & `mom/Direct-RAW-Output.docx` → Raw transcripts (for transparency & authenticity)  
 - `mom/Sipfora_MOM_Day1_Day2.json` → JSON export of MOMs (for structured technical format)
-- - `docs/Sipfora_Module6_Prompting_Appendix.docx` → Appendix highlighting Zero-shot & Few-shot prompting usage
+- `docs/Sipfora_Module6_Prompting_Appendix.docx` → Appendix highlighting Zero-shot & Few-shot prompting usage
 
 
 ---
